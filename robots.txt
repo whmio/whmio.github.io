@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://whmio.github.io/YRm/sitemap.YRm.gz
